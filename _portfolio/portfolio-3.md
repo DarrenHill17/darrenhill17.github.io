@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 BuZz LiGhTyEaR
+
+<img src='/images/500x300.png'>
