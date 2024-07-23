@@ -25,10 +25,10 @@ author:
   name             : "Darren Garth Hill"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Boston, MA"
+  employer         : "Massachusettes Institute of Technology\nUniversity of Pretoria"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "darren.hill@tuks.co.za" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
