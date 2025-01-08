@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Darren Hill"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Pretoria, South Africa"
+  employer         : "University of Pretoria"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "darren.hill@tuks.co.za" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
