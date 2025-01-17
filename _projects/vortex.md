@@ -1,6 +1,6 @@
 ---
 title: "Vortex"
-excerpt: "The first breathing aparatus tailored to wildland firefighters.<br/><img src='/images/500x300.png'>"
+excerpt: "The first breathing aparatus tailored to wildland firefighters.<br/><img src='/images/Vortex/img_8UwXTv6.jpg'>"
 collection: projects
 ---
 
