@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Darren Hill"
+title                    : "Darren Hill: Engineering Portfolio"
 title_separator          : "-"
 name                     : &name "Darren Hill"
 description              : &description "Showcasing the projects, experience, and blog of an aspiring mechanical engineer with a passion for aviation, aeronautics, and optimization."
