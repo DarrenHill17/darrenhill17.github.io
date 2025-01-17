@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Darren Hill: Engineering Portfolio"
+title                    : "Engineering Portfolio"
 title_separator          : "-"
 name                     : &name "Darren Hill"
 description              : &description "Showcasing the projects, experience, and blog of an aspiring mechanical engineer with a passion for aviation, aeronautics, and optimization."
@@ -22,7 +22,7 @@ repository               : "DarrenHill17/darrenhill17.github.io/"
 author:
   # Biographic information
   avatar           : "20240515-A7_00782.jpg"
-  name             : # Name
+  name             : "Darren Hill
   pronouns         : # example: "she/her"  
   bio              : "Showcasing the projects, experience, and blog of an aspiring mechanical engineer with a passion for aviation, aeronautics, and optimization."
   location         : "Pretoria, South Africa"
