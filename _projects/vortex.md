@@ -10,7 +10,7 @@ collection: projects
 
 ## Sound the alarm! Red! Red! Red
 <figure>
-    <img src='/images/Vortex/24-12-09-009-Final-Presentations-1777.jpg>
+    <img src='/images/Vortex/24-12-09-009-Final-Presentations-1777.jpg'>
     <figcaption>Red Team at the final presentation.</figcaption>
 </figure>
 During my exchange program in 2024, I had the privilege of taking the class as part of the Red team, under the guidance of lab instructors Dr Danny Braunstein and Dr Dave Barrett. I served as the Information Officer for the team where I managed the shared Google Drive and Fusion repository, ensuring that all files were well organized.
